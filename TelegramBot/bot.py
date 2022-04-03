@@ -12,9 +12,9 @@ from telethon.tl.types import ChannelParticipantsSearch
 from telethon.tl.functions.messages import GetHistoryRequest
 
 
-api_id   = 14683519 
-api_hash = '8f8051c3862830ed4ea0852a98b76001'
-username = 'esentaik'
+api_id   = 1 
+api_hash = '#####'
+username = '#'
 
 
 
